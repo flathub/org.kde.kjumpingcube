@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/libkdegames-19.12.3.tar.xz",
-                    "sha256": "39cf5039b7fe11688028df026252c9cd4424546817b5bb635af2558f71ba6b20"
+                    "url": "https://download.kde.org/stable/release-service/20.04.0/src/libkdegames-20.04.0.tar.xz",
+                    "sha256": "798283435dd7f8979ed1456b0e98dea99c9eec4eede24806d736e7682a0c07a5"
                 }
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/kjumpingcube-19.12.3.tar.xz",
-                    "sha256": "b969111cb884efc9ad8ef585066ca33d7168bb045c93a3f18668173a11d29ea2"
+                    "url": "https://download.kde.org/stable/release-service/20.04.0/src/kjumpingcube-20.04.0.tar.xz",
+                    "sha256": "362ee6e7514cc9621ba22f9e23f651de505b2326134ce4e3d8faffe0e67e39ef"
                 }
             ]
         }
