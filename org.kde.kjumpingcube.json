@@ -16,11 +16,11 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/22.04.1/src/libkdegames-22.04.1.tar.xz",
-                    "sha256": "0ce94753c590ac4019b3f11ca0b4de83d8bb0dc619de15fc73be7f3a820fd9e0",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/libkdegames-22.04.2.tar.xz",
+                    "sha256": "c33af6c13540add132122b36b2faabc1f0beaf2c06d29e575f7789f1c5342911",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -33,11 +33,11 @@
         {
             "name": "kjumpingcube",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/22.04.1/src/kjumpingcube-22.04.1.tar.xz",
-                    "sha256": "4fc1a759acc33ffd0978093668cdadb7719a4991c5bc4baf8698dbe17910ffb9",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/kjumpingcube-22.04.2.tar.xz",
+                    "sha256": "01d90e9471b919107dcad66e2afa9bf3b153378a01a9b31c557135acd4fbb295",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
