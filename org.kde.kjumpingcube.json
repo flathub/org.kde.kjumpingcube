@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kjumpingcube-22.08.0.tar.xz",
-                    "sha256": "d02f272754b558b415f45aec8d96d720ba9acec357031c9a6ad287cb5194a5dd",
+                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kjumpingcube-22.08.1.tar.xz",
+                    "sha256": "54dccf8d36f39dbc34f35ec894e16b7e3f6892d57fb8ea2c05a225493ed008e9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
