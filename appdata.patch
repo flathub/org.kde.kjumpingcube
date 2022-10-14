@@ -1,0 +1,10 @@
+--- a/src/org.kde.kjumpingcube.appdata.xml	2022-10-11 03:13:38.000000000 +0700
++++ b/src/org.kde.kjumpingcube.appdata.xml	2022-10-14 15:23:05.827330599 +0700
+@@ -143,6 +143,7 @@
+       <image>https://www.kde.org/images/screenshots/kjumpingcube.png</image>
+     </screenshot>
+   </screenshots>
++  <content_rating type="oars-1.1" />
+   <url type="homepage">https://kde.org/applications/games/org.kde.kjumpingcube</url>
+   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kjumpingcube</url>
+   <url type="donation">https://www.kde.org/community/donations/?app=kjumpingcube&amp;source=appdata</url>
