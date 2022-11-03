@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/libkdegames-22.08.2.tar.xz",
-                    "sha256": "524ad11b13ac946d86e599a7a255b651f9377fad4433a4ec22924c8f54cc6dbd",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/libkdegames-22.08.3.tar.xz",
+                    "sha256": "4ccf4d5d5530f464d901ece7ea55299d9fb6c2349e824f92e0aa1f8e1732a097",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kjumpingcube-22.08.2.tar.xz",
-                    "sha256": "a22012ae78a7ae1d6512f69be1457aac7f853abf6647ddc872838fc5453ab6c2",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kjumpingcube-22.08.3.tar.xz",
+                    "sha256": "b45b41e5793afe743a9b533e1f2c3aadbc1d7014375bfdf3fb8520cf592f24e0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -48,7 +48,8 @@
                 {
                     "type": "patch",
                     "path": "appdata.patch"
-                }                    ]
+                }
+            ]
         }
     ]
 }
