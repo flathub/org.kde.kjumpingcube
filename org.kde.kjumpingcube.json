@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/libkdegames-26.04.3.tar.xz",
-                    "sha256": "fb9a2199c1d7d5ad827584edb063dd96e41aa8a937980d641e1ffa122d1eccc3",
+                    "url": "https://download.kde.org/stable/release-service/26.08.0/src/libkdegames-26.08.0.tar.xz",
+                    "sha256": "dfe92df0983d8344ba6544fe0071a8afe77b9af087cb4e42b2e4e9d70eed89cf",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kjumpingcube-26.04.3.tar.xz",
-                    "sha256": "dc6cbd66ec114d8379621be352ca53f7125701e0c5c364341703e723e4e77e1d",
+                    "url": "https://download.kde.org/stable/release-service/26.08.0/src/kjumpingcube-26.08.0.tar.xz",
+                    "sha256": "cc851ec97048b52cb695bb5bd208ad54e70b2b1898c6cf08f46369eae55355c1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
